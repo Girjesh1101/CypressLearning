@@ -1,0 +1,9 @@
+{
+    "validProduct": {
+        "name": "Hammer",
+        "price": 25
+    },
+    "invalidProduct": {
+        "name": "unknown Product"
+    }
+}
