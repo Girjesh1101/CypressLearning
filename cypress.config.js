@@ -5,7 +5,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'https://practicesoftwaretesting.com',
+    // baseUrl: 'https://practicesoftwaretesting.com',
+    baseUrl: 'https://eventhub.rahulshettyacademy.com'
   },
   env: {
     apiUrl: 'https://api.practicesoftwaretesting.com'
